@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gebleksengek",
+      "name": "Dhiki Indryanto",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42679071?v=4",
+      "profile": "http://indryanto.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "project-euler",
+  "projectOwner": "syujie",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
